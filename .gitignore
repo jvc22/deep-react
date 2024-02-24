@@ -25,3 +25,4 @@ dist-ssr
 
 # JSON Server
 server.json
+api.json
